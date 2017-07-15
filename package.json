@@ -1,0 +1,42 @@
+{
+	"name": "world-heritage",
+	"description": "UNESCO world heritage sites",
+	"version": "0.0.0",
+	"keywords": [
+		"UNESCO",
+		"world heritage",
+		"UN",
+		"UNO",
+		"united nations"
+	],
+	"author": "Julius Tens <mail@juliustens.de>",
+	"homepage": "https://github.com/juliuste/world-heritage",
+	"repository": "juliuste/world-heritage",
+	"bugs": "https://github.com/juliuste/world-heritage/issues",
+	"main": "./index.js",
+	"files": [
+		"index.js"
+	],
+	"dependencies": {
+		"fetch-ponyfill": "^4.1.0",
+		"lodash.isnull": "^3.0.0",
+		"lodash.isnumber": "^3.0.3",
+		"lodash.merge": "^4.6.0",
+		"pinkie-promise": "^2.0.1",
+		"to-markdown": "^3.1.0",
+		"xml-js": "^1.3.2"
+	},
+	"devDependencies": {
+		"lodash.isequal": "^4.5.0",
+		"lodash.round": "^4.0.4",
+		"tape": "^4.7.0"
+	},
+	"scripts": {
+		"test": "node test.js",
+		"prepublish": "npm test"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"license": "MIT"
+}
