@@ -3,9 +3,9 @@
 List of [UNESCO world heritage](http://whc.unesco.org/) sites, automatically fetched from [this official endpoint](http://whc.unesco.org/en/list/xml/).
 
 [![npm version](https://img.shields.io/npm/v/world-heritage.svg)](https://www.npmjs.com/package/world-heritage)
-[![Build Status](https://travis-ci.org/juliuste/world-heritage.svg?branch=master)](https://travis-ci.org/juliuste/wworld-heritage)
-[![dependency status](https://img.shields.io/david/juliuste/wworld-heritage.svg)](https://david-dm.org/juliuste/world-heritage)
-[![dev dependency status](https://img.shields.io/david/dev/juliuste/wworld-heritage.svg)](https://david-dm.org/juliuste/wworld-heritage#info=devDependencies)
+[![Build Status](https://travis-ci.org/juliuste/world-heritage.svg?branch=master)](https://travis-ci.org/juliuste/world-heritage)
+[![dependency status](https://img.shields.io/david/juliuste/world-heritage.svg)](https://david-dm.org/juliuste/world-heritage)
+[![dev dependency status](https://img.shields.io/david/dev/juliuste/world-heritage.svg)](https://david-dm.org/juliuste/world-heritage#info=devDependencies)
 [![license](https://img.shields.io/github/license/juliuste/world-heritage.svg?style=flat)](LICENSE)
 [![chat on gitter](https://badges.gitter.im/juliuste.svg)](https://gitter.im/juliuste)
 
