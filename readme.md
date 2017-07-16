@@ -75,6 +75,11 @@ Returns a [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Refe
 ]
 ```
 
+## See also
+
+- [world-heritage-image](https://github.com/juliuste/world-heritage-image) - UNESCO world heritage site wikimedia commons images
+- [world-heritage-twitter-bot](https://github.com/juliuste/world-heritage-twitter-bot) - UNESCO world heritage twitter bot
+
 ## Contributing
 
 If you found a bug, want to propose a feature or feel the urge to complain about your life, feel free to visit [the issues page](https://github.com/juliuste/world-heritage/issues).
