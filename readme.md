@@ -1,7 +1,5 @@
 # world-heritage
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/juliuste/world-heritage.svg)](https://greenkeeper.io/)
-
 List of [UNESCO world heritage](http://whc.unesco.org/) sites, automatically fetched from [this official endpoint](http://whc.unesco.org/en/list/xml/).
 
 [![npm version](https://img.shields.io/npm/v/world-heritage.svg)](https://www.npmjs.com/package/world-heritage)
