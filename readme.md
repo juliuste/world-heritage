@@ -4,6 +4,7 @@ List of [UNESCO world heritage](http://whc.unesco.org/) sites, automatically fet
 
 [![npm version](https://img.shields.io/npm/v/world-heritage.svg)](https://www.npmjs.com/package/world-heritage)
 [![Build Status](https://travis-ci.org/juliuste/world-heritage.svg?branch=master)](https://travis-ci.org/juliuste/world-heritage)
+[![Greenkeeper badge](https://badges.greenkeeper.io/juliuste/world-heritage.svg)](https://greenkeeper.io/)
 [![dependency status](https://img.shields.io/david/juliuste/world-heritage.svg)](https://david-dm.org/juliuste/world-heritage)
 [![dev dependency status](https://img.shields.io/david/dev/juliuste/world-heritage.svg)](https://david-dm.org/juliuste/world-heritage#info=devDependencies)
 [![license](https://img.shields.io/github/license/juliuste/world-heritage.svg?style=flat)](LICENSE)
