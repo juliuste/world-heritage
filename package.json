@@ -18,7 +18,7 @@
 		"index.js"
 	],
 	"dependencies": {
-		"fetch-ponyfill": "^4.1.0",
+		"fetch-ponyfill": "^5.0.0",
 		"lodash.isnull": "^3.0.0",
 		"lodash.isnumber": "^3.0.3",
 		"lodash.merge": "^4.6.0",
