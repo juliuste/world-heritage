@@ -26,7 +26,7 @@ tape('world-heritage', (t) => {
 		t.ok(aachen.url === 'https://whc.unesco.org/en/list/3', 'aachen url')
 		t.ok(aachen.id === 3, 'aachen id')
 		t.ok(aachen.image === 'https://whc.unesco.org/uploads/sites/site_3.jpg', 'aachen image')
-		t.ok(isEqual(aachen.countries, {iso: ['de'], names: ['Germany']}), 'aachen countries')
+		t.ok(isEqual(aachen.countries, { iso: ['de'], names: ['Germany'] }), 'aachen countries')
 		t.ok(aachen.region === 'Europe and North America', 'aachen region')
 		t.ok(aachen.revision === 0, 'aachen revision')
 		t.ok(aachen.site === 'Aachen Cathedral ', 'aachen site')
