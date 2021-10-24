@@ -1,3 +1,5 @@
+# :warning: UNMAINTAINED, PLEASE CALL [UNESCO'S OFFICIAL ENDPOINT](https://whc.unesco.org/en/list/xml/) DIRECTLY OR USE [WIKIDATA](https://www.wikidata.org)
+
 # world-heritage
 
 List of [UNESCO world heritage](http://whc.unesco.org/) sites, automatically fetched from [this official endpoint](http://whc.unesco.org/en/list/xml/).
